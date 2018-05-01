@@ -1,0 +1,20 @@
+ul{
+	list-style: none;
+}
+
+h1{
+	font-size: 20px;
+	margin-top: 10px;
+}
+h2{
+	font-size: 17px;
+	margin-top: 5px;
+}
+#score{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-size: 20px;
+}
+textarea{
+	width: 500px;
+}
